@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    },
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    },
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    },
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    },
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    },
+    {
+      "photo": "/blablabla",
+      "description": "bla bla bkla",
+      "price": "bla bla bla "
+    }
+  ]
+}
