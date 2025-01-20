@@ -15,7 +15,9 @@ function App() {
             setData(data.sort((a,b)=>b.text.localName(a.text)));
         }
   //to do
-
+    }
+    function blabla(){
+      //arafers ar aktebs
     }
 
   return (
